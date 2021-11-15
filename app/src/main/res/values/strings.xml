@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ram Order</string>
+    <string name="levis_510">Levis 510</string>
+    <string name="of_pairs"># of Pairs :</string>
+    <string name="_0">0 %</string>
+    <string name="levis_501">Levis 501</string>
+    <string name="delete">Delete</string>
+</resources>
